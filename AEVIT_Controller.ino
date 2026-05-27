@@ -25,7 +25,7 @@
 #include "Joystick.h"
 #include <Keypad.h>
 
-//chan-ged from JOYSTICK_TYPE_MULIT_AXIS to GAMEPAD
+//changed from JOYSTICK_TYPE_MULIT_AXIS to GAMEPAD
 Joystick_ AEVIT(JOYSTICK_DEFAULT_REPORT_ID, 
   JOYSTICK_TYPE_JOYSTICK, 1, 0,
   false, false, false, false, false, false,
