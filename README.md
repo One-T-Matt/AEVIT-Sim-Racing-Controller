@@ -14,8 +14,7 @@ This sofware was written for and tested on the AEVIT model AEVIT-DL-002.  It may
 ## Requirements
 - AEVIT-DL-002 throttle and brake controller with intact potentiometers (and their wiring).  No further electronics or controls from the mobility hardware are required
 - An Arduino.  This software was written for and tested on the Arduino Leonardo clones commonly available (Example https://www.amazon.com/dp/B01MTU9GOB). Wiring instructions are based around the Leonardo clone.
-- The ability to solder
-- A USB breakout cable to make cabling cleaner and easier (Example)
+- A USB breakout cable to make cabling cleaner and easier (Example https://www.amazon.com/YACSEJAO-Female-Scanner-Extension-Straight/dp/B0DNMPDZH1)
 
 ## Software Build Requirements
 The Arduino IDE will need to have access to the following libraries:
