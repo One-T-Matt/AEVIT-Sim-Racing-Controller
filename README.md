@@ -25,7 +25,7 @@ The Arduino IDE will need to have access to the following libraries:
 All are as of the time of this writing, available in the Arduino Library Manager
 
 ## Wiring
-Per https://github.com/PalladinoMarco/AlignedJoystick/wiki/Wiring-joystick the pots need to be wired with a shared VCC and Ground connection. In the controller, the brown and white wires are tied together for VCC (https://raw.githubusercontent.com/PalladinoMarco/AlignedJoystick/master/wiring2_bb.png). They come from the upper and 
+Per https://github.com/PalladinoMarco/AlignedJoystick/wiki/Wiring-joystick the pots need to be wired with a shared VCC and Ground connection (https://raw.githubusercontent.com/PalladinoMarco/AlignedJoystick/master/wiring2_bb.png [Note that in this example image, the joystick has two axes and requires two signal wires, in the AEVIT, each pot has a single signal wire]). In the controller, the brown and white wires are tied together for VCC. They come from the upper and 
 middle pots when the controller is laying on its side with the pot stack facing upwards.  The purple and white/red wires are tied together for ground and go to the ground pin on the Aruino.  The signal pins (A0 and A2) go to the yellow wire on the middle pot and the green wire on the upper pot
 
 The reason for the shared wiring is the single VCC and GND pins.  
