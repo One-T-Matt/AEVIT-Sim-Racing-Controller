@@ -1,7 +1,7 @@
 # AEVIT-Sim-Racing-Controller
 An AEVIT Mobility throttle and brake driver with serial monitoring
 
-This project is an effort to bring some small portion of the automotive mobiility world into the Sim Racing world with hopes to assist those with physical disabilities in their efforts to Sim Race.
+This project is an effort to bring some small portion of the automotive mobility world into the Sim Racing world with hopes to assist those with physical disabilities in their efforts to Sim Race.
 
 An AEVIT throttle and brake controller is commonly used in vehicles that are modified to allow persons with physical disabilities to control the throttle and brake of their vehicle by hand
 
